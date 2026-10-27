@@ -1,0 +1,11 @@
+{
+  "skills": [
+    {
+      "name": "skill-creator",
+      "version": "1",
+      "files": [
+        "skill-creator/SKILL.md"
+      ]
+    }
+  ]
+}
