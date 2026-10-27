@@ -6,6 +6,13 @@
       "files": [
         "skill-creator/SKILL.md"
       ]
+    },
+    {
+      "name": "xlsx",
+      "version": "1",
+      "files": [
+        "xlsx/SKILL.md"
+      ]
     }
   ]
 }
